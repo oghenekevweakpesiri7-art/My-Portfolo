@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> MY RESUME</title>
+</head>
+<body>
+<h1>Oghenekevwe Akpesiri Peterwhite</h1>
+<div><img src="Peter.jpg" height="150"></div>
+<h1>Summary</h1>
+<div>I am a dedicated,discipline and hardworking individual with experience in customer service and administration </div>
+<hr>
+
+
+
+<h1>Education</h1>
+<ul><li>B.Sc. in Computer Science-University of portharcourt (2019-2023)</li></ul>
+<h1>Work Experience</h1>
+<ul>
+<LI>Customer Service Representative - ABC Inc.</LI>	
+June 2014 - May 2018
+<ul>
+	<li>Assisted with scheduling appointments and meetings</li>
+<li>Managed incoming and outgoing mail and correspondence
+</li>
+<li>Managed incoming and outgoing mail and correspondence
+</li>
+</ul>
+</ul>
+
+<ul>
+<li>Administrative Assistant - XYZ Corp.</li>	
+June 2018 - Present
+
+<ul>
+<li>Assisted with scheduling appointments and meetings</li>	
+<li>Managed incoming and outgoing mail and correspondence</li>
+<li>Prepared reports and presentations using Microsoft Office Suite</li>
+</ul>
+</ul>
+<hr>
+
+<h1>Skills</h1>
+<ul>
+<li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>	
+<li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>
+<li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>
+</ul>
+<hr>
+
+<h1>Other</h1>
+<ul><li>
+<a href="hobby.html">My Hobbies</a>  </li></ul>
+<ul>
+<li>
+<a href="contact.html"> Contact Me</a>	
+
+</li>	
+
+</ul>
+<div> Peterwhite.All rights reserved</div>
+</body>
+</html>
